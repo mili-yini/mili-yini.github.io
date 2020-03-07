@@ -2,7 +2,7 @@
 layout: post
 title:  "test爬虫"
 date:   2020-03-07 18:06:00 +0800
-categories: 爬虫 测试
+categories: python 爬虫
 ---
 
 # test
